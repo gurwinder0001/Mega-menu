@@ -1,0 +1,1294 @@
+<div id="shopify-section-sections--17856333742216__mega_menu_TpnmpR" class="shopify-section shopify-section-group-header-group"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/x-mega-menu@1.4.1/dist/x-mega-menu.min.css">
+<script src="https://cdn.jsdelivr.net/npm/x-mega-menu@1.4.1/dist/x-mega-menu.min.js"></script>
+
+<section id="sections--17856333742216__mega_menu_TpnmpR" class="main-header">
+  <div class="custom-container new-nav-box">
+    <div class="wrapper-megamenu">
+      <div class="iuohg ">
+        <nav class="custom-container" style="height: 39px;">
+          <ul id="mega-menu" class="page-width x-mega-menu x-fixed-top"><li id="x-toggle" class="x-has-image">
+            <img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiID8+DQo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPg0KPHN2ZyB3aWR0aD0iNjU3cHQiIGhlaWdodD0iNjU3cHQiIHZpZXdCb3g9IjAgMCA2NTcgNjU3IiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+DQo8ZyBpZD0iI2ZmZmZmZmZmIj4NCjwvZz4NCjxnIGlkPSIjMmYyZjJmZmYiPg0KPHBhdGggZmlsbD0iIzJmMmYyZiIgb3BhY2l0eT0iMS4wMCIgZD0iIE0gMTkzLjM1IDE1Ny41MSBDIDMzNi4yNyAxNTcuMzAgNDc5LjE4IDE1Ny4zMCA2MjIuMTAgMTU3Ljk2IEMgNjI2LjEzIDE1Ny42OCA2MjguNjcgMTYxLjYyIDYyOS44NyAxNjQuOTYgQyA2MzIuODEgMTczLjY2IDYzMi44MSAxODMuMzUgNjI5Ljg3IDE5Mi4wNiBDIDYyOC42NiAxOTUuNDAgNjI2LjEzIDE5OS4zNyA2MjIuMDcgMTk5LjA1IEMgNDk5LjM4IDE5OS43MCAzNzYuNjkgMTk5LjY1IDI1NC4wMCAxOTkuNjQgQyAxODEuOTYgMTk5LjQyIDEwOS45MiAxOTkuNjAgMzcuODggMTk5LjAwIEMgMzMuMzkgMTk4LjIzIDMxLjU2IDE5My4yNCAzMC40MyAxODkuMzggQyAyOC40NCAxODEuMTYgMjguNTIgMTcyLjMyIDMxLjU0IDE2NC4zNiBDIDMyLjc0IDE2MS4yOCAzNS4xOSAxNTcuNzUgMzguOTAgMTU3Ljk3IEMgOTAuMzggMTU3LjY1IDE0MS44NyAxNTcuNTUgMTkzLjM1IDE1Ny41MSBaIiAvPg0KPHBhdGggZmlsbD0iIzJmMmYyZiIgb3BhY2l0eT0iMS4wMCIgZD0iIE0gNTEuMjkgMzA0LjQxIEMgODYuNTUgMzAzLjc3IDEyMS44MSAzMDQuMDYgMTU3LjA2IDMwMy45OCBDIDI5Ny4wMyAzMDMuOTAgNDM3LjAwIDMwMy45NSA1NzYuOTcgMzA0LjAwIEMgNTkyLjMwIDMwNC4xNyA2MDcuNjQgMzA0LjI5IDYyMi45NyAzMDQuNjMgQyA2MjYuOTkgMzA0LjczIDYyOC45MiAzMDguOTEgNjMwLjExIDMxMi4xNyBDIDYzMi43OSAzMjAuNzIgNjMyLjc3IDMzMC4xOCA2MjkuODIgMzM4LjY3IEMgNjI4LjY1IDM0Mi4wMyA2MjYuMTQgMzQ1LjgyIDYyMi4xMCAzNDUuNTIgQyA1NzQuMDcgMzQ2LjQ1IDUyNi4wMiAzNDUuODMgNDc3Ljk4IDM0Ni4wNyBDIDM2OC4zMCAzNDYuMTIgMjU4LjYyIDM0Ni4xMyAxNDguOTMgMzQ2LjA0IEMgMTEyLjAwIDM0NS44OCA3NS4wNCAzNDYuNDAgMzguMTIgMzQ1LjQ2IEMgMzQuMTYgMzQ1LjI2IDMyLjI4IDM0MS4yMiAzMS4wOCAzMzguMDEgQyAyOC4zNSAzMjkuMzcgMjguMzUgMzE5LjgzIDMxLjM4IDMxMS4yNyBDIDMyLjU1IDMwOC4zNCAzNC40NSAzMDQuNzkgMzguMDQgMzA0LjY0IEMgNDIuNDUgMzA0LjQzIDQ2Ljg4IDMwNC41MyA1MS4yOSAzMDQuNDEgWiIgLz4NCjxwYXRoIGZpbGw9IiMyZjJmMmYiIG9wYWNpdHk9IjEuMDAiIGQ9IiBNIDM3LjE1IDQ0OC4yNSBDIDU4LjAzIDQ0Ny42MSA3OS4wMiA0NDguMDIgOTkuOTUgNDQ3Ljc5IEMgMjczLjYyIDQ0Ny40NiA0NDcuMjkgNDQ3LjQ0IDYyMC45NiA0NDcuOTggQyA2MjQuNzggNDQ3LjQwIDYyNy45NyA0NTAuMzUgNjI5LjI5IDQ1My42OSBDIDYzMi44NyA0NjIuNTcgNjMyLjkxIDQ3Mi43NyA2MjkuOTkgNDgxLjg1IEMgNjI4Ljc5IDQ4NS4yOCA2MjYuMjggNDg5LjU0IDYyMi4wNSA0ODkuMTEgQyA1MjEuMzYgNDg5Ljg2IDQyMC42NiA0ODkuNzIgMzE5Ljk3IDQ4OS44NyBDIDI1Ni42NCA0ODkuODQgMTkzLjMxIDQ4OS42MyAxMjkuOTkgNDg5LjY0IEMgOTguOTQgNDg5LjMyIDY3Ljg4IDQ4OS41OSAzNi44NSA0ODguOTUgQyAzMi4wMyA0ODYuNjggMzAuNTcgNDgwLjg3IDI5Ljc3IDQ3Ni4wNiBDIDI4LjQzIDQ2OS40MyAyOS4wNCA0NjIuNTIgMzAuOTUgNDU2LjA2IEMgMzIuMDMgNDUyLjg5IDMzLjcxIDQ0OS4zNSAzNy4xNSA0NDguMjUgWiIgLz4NCjwvZz4NCjwvc3ZnPg0K" alt="menu bars toggle">
+        </li>
+            
+            
+            
+            
+              
+              
+              
+              
+                
+                  
+                  
+                
+              
+
+              <li class="home active   ">
+                <a href="/">
+                  <div class="ujio flex-hedin">
+                    Home
+                    
+                  </div> 
+                </a>
+
+                
+              </li>
+            
+              
+              
+              
+              
+
+              <li class="shop has-submenu x-has-sub-menu">
+                <a href="/collections">
+                  <div class="ujio flex-hedin">
+                    Shop
+                    
+                      <img class="src-white" src="https://cdn.shopify.com/s/files/1/0675/1977/4856/files/Chevron_Down.png?v=1743051050">
+                    
+                  </div> 
+                </a>
+
+                
+                <ul class="submenu " style="margin-left:px">
+                  
+                    <!-- Original mega menu style -->
+                    <li>
+                      <h3>Shop By Category</h3>
+                      <ul>
+                        
+                        
+                          <li class="">
+                            <a href="#">Body care</a>
+                            
+                          </li>
+                        
+                          <li class="">
+                            <a href="#">Face care</a>
+                            
+                          </li>
+                        
+                          <li class="">
+                            <a href="#">Gifting </a>
+                            
+                          </li>
+                        
+                          <li class="">
+                            <a href="#">Hair care</a>
+                            
+                          </li>
+                        
+                          <li class="">
+                            <a href="#">Make up</a>
+                            
+                          </li>
+                        
+                          <li class="">
+                            <a href="#">Perfume</a>
+                            
+                          </li>
+                        
+                      </ul>
+                    </li>
+                    <li>
+                      <h3>Shop By Concern</h3>
+                      <ul>
+                        
+                        
+                          <li class="">
+                            <a href="#">Body care</a>
+                            
+                          </li>
+                        
+                          <li class="">
+                            <a href="#">Face care</a>
+                            
+                          </li>
+                        
+                          <li class="">
+                            <a href="#">Gifting </a>
+                            
+                          </li>
+                        
+                          <li class="">
+                            <a href="#">Hair care</a>
+                            
+                          </li>
+                        
+                          <li class="">
+                            <a href="#">Make up</a>
+                            
+                          </li>
+                        
+                          <li class="">
+                            <a href="#">Perfume</a>
+                            
+                          </li>
+                        
+                      </ul>
+                    </li>
+                    <li>
+                      <h3>Shop By Skin Type</h3>
+                      <ul>
+                        
+                        
+                          <li class="">
+                            <a href="#">Body care</a>
+                            
+                          </li>
+                        
+                          <li class="">
+                            <a href="#">Face care</a>
+                            
+                          </li>
+                        
+                          <li class="">
+                            <a href="#">Gifting </a>
+                            
+                          </li>
+                        
+                          <li class="">
+                            <a href="#">Hair care</a>
+                            
+                          </li>
+                        
+                          <li class="">
+                            <a href="#">Make up</a>
+                            
+                          </li>
+                        
+                          <li class="">
+                            <a href="#">Perfume</a>
+                            
+                          </li>
+                        
+                      </ul>
+                    </li>
+                    <li>
+                      <img src="//aminaturaldev.myshopify.com/cdn/shop/files/46_c8b60450-6a0c-44ff-897e-b623c528511b.png?v=1744905050">
+                    </li>
+                  
+                </ul>
+                
+              </li>
+            
+              
+              
+              
+              
+
+              <li class="pages has-submenu x-has-sub-menu">
+                <a href="">
+                  <div class="ujio flex-hedin">
+                    Pages
+                    
+                      <img class="src-white" src="https://cdn.shopify.com/s/files/1/0675/1977/4856/files/Chevron_Down.png?v=1743051050">
+                    
+                  </div> 
+                </a>
+
+                
+                <ul class="submenu dropdawntest" style="margin-left:120px">
+                  
+                    <!-- Dropdown menu style -->
+                    <li>
+                      <ul>
+                        
+                        
+                          <li class="">
+                            <a href="/">Home</a>
+                            
+                          </li>
+                        
+                          <li class="">
+                            <a href="/pages/about-us">About Us</a>
+                            
+                          </li>
+                        
+                          <li class="">
+                            <a href="/pages/contact">Contact</a>
+                            
+                          </li>
+                        
+                      </ul>
+                    </li>
+                  
+                </ul>
+                
+              </li>
+            
+              
+              
+              
+              
+
+              <li class="blog    ">
+                <a href="/blogs/news">
+                  <div class="ujio flex-hedin">
+                    Blog
+                    
+                  </div> 
+                </a>
+
+                
+              </li>
+            
+              
+              
+              
+              
+
+              <li class="about-us    ">
+                <a href="/pages/about-us">
+                  <div class="ujio flex-hedin">
+                    About us
+                    
+                  </div> 
+                </a>
+
+                
+              </li>
+            
+              
+              
+              
+              
+
+              <li class="contact-us    ">
+                <a href="/pages/contact">
+                  <div class="ujio flex-hedin">
+                    Contact us
+                    
+                  </div> 
+                </a>
+
+                
+              </li>
+            
+          </ul>
+        <div class="x-sub-menu" style="position: fixed; left: 0px; right: 0px; z-index: 99; top: 39px;"></div><div id="x-side-menu"><ul class="x-side-menu">
+    <div class="x-close">
+        ×
+    </div>
+    <h3>
+        🖤 xStack menu 🖤
+    </h3>
+    
+            
+            
+            
+            
+              
+              
+              
+              
+                
+                  
+                  
+                
+              
+
+              <li class="home active   ">
+                <a href="/">
+                  <div class="ujio flex-hedin">
+                    Home
+                    
+                  </div> 
+                </a>
+
+                
+              </li>
+            
+              
+              
+              
+              
+
+              <li class="shop has-submenu x-has-sub-menu x-right">
+                <a href="/collections">
+                  <div class="ujio flex-hedin">
+                    Shop
+                    
+                      <img class="src-white" src="https://cdn.shopify.com/s/files/1/0675/1977/4856/files/Chevron_Down.png?v=1743051050">
+                    
+                  </div> 
+                </a>
+
+                
+                <ul class="submenu " style="margin-left:px">
+                  
+                    <!-- Original mega menu style -->
+                    <li>
+                      <h3>Shop By Category</h3>
+                      <ul>
+                        
+                        
+                          <li class="">
+                            <a href="#">Body care</a>
+                            
+                          </li>
+                        
+                          <li class="">
+                            <a href="#">Face care</a>
+                            
+                          </li>
+                        
+                          <li class="">
+                            <a href="#">Gifting </a>
+                            
+                          </li>
+                        
+                          <li class="">
+                            <a href="#">Hair care</a>
+                            
+                          </li>
+                        
+                          <li class="">
+                            <a href="#">Make up</a>
+                            
+                          </li>
+                        
+                          <li class="">
+                            <a href="#">Perfume</a>
+                            
+                          </li>
+                        
+                      </ul>
+                    </li>
+                    <li>
+                      <h3>Shop By Concern</h3>
+                      <ul>
+                        
+                        
+                          <li class="">
+                            <a href="#">Body care</a>
+                            
+                          </li>
+                        
+                          <li class="">
+                            <a href="#">Face care</a>
+                            
+                          </li>
+                        
+                          <li class="">
+                            <a href="#">Gifting </a>
+                            
+                          </li>
+                        
+                          <li class="">
+                            <a href="#">Hair care</a>
+                            
+                          </li>
+                        
+                          <li class="">
+                            <a href="#">Make up</a>
+                            
+                          </li>
+                        
+                          <li class="">
+                            <a href="#">Perfume</a>
+                            
+                          </li>
+                        
+                      </ul>
+                    </li>
+                    <li>
+                      <h3>Shop By Skin Type</h3>
+                      <ul>
+                        
+                        
+                          <li class="">
+                            <a href="#">Body care</a>
+                            
+                          </li>
+                        
+                          <li class="">
+                            <a href="#">Face care</a>
+                            
+                          </li>
+                        
+                          <li class="">
+                            <a href="#">Gifting </a>
+                            
+                          </li>
+                        
+                          <li class="">
+                            <a href="#">Hair care</a>
+                            
+                          </li>
+                        
+                          <li class="">
+                            <a href="#">Make up</a>
+                            
+                          </li>
+                        
+                          <li class="">
+                            <a href="#">Perfume</a>
+                            
+                          </li>
+                        
+                      </ul>
+                    </li>
+                    <li>
+                      <img src="//aminaturaldev.myshopify.com/cdn/shop/files/46_c8b60450-6a0c-44ff-897e-b623c528511b.png?v=1744905050">
+                    </li>
+                  
+                </ul>
+                
+              
+        <div class="x-next">
+            〉
+        </div>
+        </li>
+            
+              
+              
+              
+              
+
+              <li class="pages has-submenu x-has-sub-menu x-right">
+                <a href="">
+                  <div class="ujio flex-hedin">
+                    Pages
+                    
+                      <img class="src-white" src="https://cdn.shopify.com/s/files/1/0675/1977/4856/files/Chevron_Down.png?v=1743051050">
+                    
+                  </div> 
+                </a>
+
+                
+                <ul class="submenu dropdawntest" style="margin-left:120px">
+                  
+                    <!-- Dropdown menu style -->
+                    <li>
+                      <ul>
+                        
+                        
+                          <li class="">
+                            <a href="/">Home</a>
+                            
+                          </li>
+                        
+                          <li class="">
+                            <a href="/pages/about-us">About Us</a>
+                            
+                          </li>
+                        
+                          <li class="">
+                            <a href="/pages/contact">Contact</a>
+                            
+                          </li>
+                        
+                      </ul>
+                    </li>
+                  
+                </ul>
+                
+              
+        <div class="x-next">
+            〉
+        </div>
+        </li>
+            
+              
+              
+              
+              
+
+              <li class="blog    ">
+                <a href="/blogs/news">
+                  <div class="ujio flex-hedin">
+                    Blog
+                    
+                  </div> 
+                </a>
+
+                
+              </li>
+            
+              
+              
+              
+              
+
+              <li class="about-us    ">
+                <a href="/pages/about-us">
+                  <div class="ujio flex-hedin">
+                    About us
+                    
+                  </div> 
+                </a>
+
+                
+              </li>
+            
+              
+              
+              
+              
+
+              <li class="contact-us    ">
+                <a href="/pages/contact">
+                  <div class="ujio flex-hedin">
+                    Contact us
+                    
+                  </div> 
+                </a>
+
+                
+              </li>
+            
+          
+</ul></div></nav>
+      </div>
+
+      <div class="mobile-menu-custom">
+        <button class="menu-toggle" onclick="toggleMenu()">☰</button>
+        <div class="mobile-menu-overlay" onclick="toggleMenu()"></div>
+        <div class="mobile-menu-drawer">
+          <button class="mobile-menu-close" onclick="toggleMenu()">✕</button>
+          <nav>
+            <ul class="mobile-main-menu">
+              
+              
+              
+              
+                
+                
+                
+                
+                  
+                    
+                    
+                  
+                
+
+                <li class=" active">
+                  <div class="mobile-menu-item">
+                    <a href="/" style="color: ">
+                      Home
+                    </a>
+                    
+                  </div>
+                  
+                </li>
+              
+                
+                
+                
+                
+
+                <li class="has-submenu ">
+                  <div class="mobile-menu-item">
+                    <a href="/collections/all" style="color: ">
+                      Shop
+                    </a>
+                    
+                      <span class="submenu-toggle">+</span>
+                    
+                  </div>
+                  
+                    <ul class="submenu">
+                      
+                        
+                        
+                        
+                        
+                        
+                        <li class="has-childmenu ">
+                          <div class="mobile-menu-item">
+                            <a href="#">Shop By Category</a>
+                            
+                              <span class="childmenu-toggle">+</span>
+                            
+                          </div>
+                          
+                            <ul class="childmenu">
+                              
+                                
+                                
+                                
+                                
+                                
+                                <li class="">
+                                  <a href="/blogs/news">Body care</a>
+                                </li>
+                              
+                                
+                                
+                                
+                                
+                                
+                                <li class="">
+                                  <a href="/blogs/news">Face care</a>
+                                </li>
+                              
+                                
+                                
+                                
+                                
+                                
+                                <li class="">
+                                  <a href="/blogs/news">Gifting</a>
+                                </li>
+                              
+                                
+                                
+                                
+                                
+                                
+                                <li class="">
+                                  <a href="/blogs/news">Hair care</a>
+                                </li>
+                              
+                                
+                                
+                                
+                                
+                                
+                                <li class="">
+                                  <a href="/blogs/news">Make up</a>
+                                </li>
+                              
+                                
+                                
+                                
+                                
+                                
+                                <li class="">
+                                  <a href="/blogs/news">Perfume</a>
+                                </li>
+                              
+                            </ul>
+                          
+                        </li>
+                      
+                        
+                        
+                        
+                        
+                        
+                        <li class="has-childmenu ">
+                          <div class="mobile-menu-item">
+                            <a href="/blogs/news">Shop By Concern</a>
+                            
+                              <span class="childmenu-toggle">+</span>
+                            
+                          </div>
+                          
+                            <ul class="childmenu">
+                              
+                                
+                                
+                                
+                                
+                                
+                                <li class="">
+                                  <a href="/blogs/news">Body care</a>
+                                </li>
+                              
+                                
+                                
+                                
+                                
+                                
+                                <li class="">
+                                  <a href="/blogs/news">Face care</a>
+                                </li>
+                              
+                                
+                                
+                                
+                                
+                                
+                                <li class="">
+                                  <a href="/blogs/news">Gifting</a>
+                                </li>
+                              
+                                
+                                
+                                
+                                
+                                
+                                <li class="">
+                                  <a href="/blogs/news">Hair care</a>
+                                </li>
+                              
+                                
+                                
+                                
+                                
+                                
+                                <li class="">
+                                  <a href="/blogs/news">Make up</a>
+                                </li>
+                              
+                                
+                                
+                                
+                                
+                                
+                                <li class="">
+                                  <a href="/blogs/news">Perfume</a>
+                                </li>
+                              
+                            </ul>
+                          
+                        </li>
+                      
+                        
+                        
+                        
+                        
+                        
+                        <li class="has-childmenu ">
+                          <div class="mobile-menu-item">
+                            <a href="/blogs/news">Shop By Skin Type</a>
+                            
+                              <span class="childmenu-toggle">+</span>
+                            
+                          </div>
+                          
+                            <ul class="childmenu">
+                              
+                                
+                                
+                                
+                                
+                                
+                                <li class="">
+                                  <a href="/blogs/news">Body care</a>
+                                </li>
+                              
+                                
+                                
+                                
+                                
+                                
+                                <li class="">
+                                  <a href="/blogs/news">Face care</a>
+                                </li>
+                              
+                                
+                                
+                                
+                                
+                                
+                                <li class="">
+                                  <a href="/blogs/news">Gifting</a>
+                                </li>
+                              
+                                
+                                
+                                
+                                
+                                
+                                <li class="">
+                                  <a href="/blogs/news">Hair care</a>
+                                </li>
+                              
+                                
+                                
+                                
+                                
+                                
+                                <li class="">
+                                  <a href="/blogs/news">Make up</a>
+                                </li>
+                              
+                                
+                                
+                                
+                                
+                                
+                                <li class="">
+                                  <a href="/blogs/news">Perfume</a>
+                                </li>
+                              
+                            </ul>
+                          
+                        </li>
+                      
+                    </ul>
+                  
+                </li>
+              
+                
+                
+                
+                
+
+                <li class=" ">
+                  <div class="mobile-menu-item">
+                    <a href="https://aminaturaldev.myshopify.com/blogs/news" style="color: ">
+                      Blog 
+                    </a>
+                    
+                  </div>
+                  
+                </li>
+              
+                
+                
+                
+                
+
+                <li class=" ">
+                  <div class="mobile-menu-item">
+                    <a href="/pages/contact" style="color: ">
+                      Contact Us
+                    </a>
+                    
+                  </div>
+                  
+                </li>
+              
+            </ul>
+          </nav>
+        </div>
+      </div>
+      
+      <div class="phone-number">
+        <span><img src="https://cdn.shopify.com/s/files/1/0675/1977/4856/files/Group.svg?v=1744003749"></span>
+        <span class="number-custom">(079) 555-0114</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  #mega-menu li.active > a,
+  #mega-menu li.active > a .ujio,
+  .mobile-main-menu li.active > .mobile-menu-item > a {
+    font-weight: bold;
+    color: #ffffff;
+  }
+  
+  .mobile-menu-custom{
+    display:none;
+  }
+  
+  .main-header {
+    background-color:#000;
+    height:60px;
+  }
+  
+  /* Dropdown menu specific styles */
+  .dropdawntest {
+    width: 200px !important;
+    min-width: 200px !important;
+    padding: 10px 0 !important;
+  }
+  
+  .dropdawntest li {
+    width: 100% !important;
+    padding: 0 !important;
+  }
+  
+  .dropdawntest ul {
+    width: 100% !important;
+  }
+  
+  .dropdawntest h3,
+  .dropdawntest img {
+    display: none !important;
+  }
+  
+  /* Rest of your existing CSS remains the same */
+  .bg-image{
+    position : relative;
+    top: 0px;
+  }
+  .x-mega-menu>li:hover{
+    background:#fff0 !important;
+    color:#fff;
+  }
+  .x-mega-menu>li:hover a .ujio{
+    color:#fff;
+  }
+  .x-has-sub-menu.x-active:hover .ujio{
+    color:#fff;
+  }
+  
+  .x-sub-menu li li a, .x-sub-menu li li span {
+    padding: 8.5px 5.5px;
+    transition: .4s;
+    display: block;
+    text-decoration: none!important;
+  }
+  .x-mega-menu>li a:before, .x-mega-menu>li span:before{
+    content:unset !important;
+  }
+  .wrapper-megamenu{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    position:relative;
+  }
+  .links{
+    position: absolute;
+    top : 45%;
+    left: 32%;
+    background: rgba(255, 255, 255, 0.29);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(6.8px);
+    -webkit-backdrop-filter: blur(6.8px);
+    border: 1px solid rgba(255, 255, 255, 0.62);
+    color : white;
+    margin: 29px;
+    gap: 2em;
+    z-index: 100;
+    padding: 40px;
+  }
+  .x-mega-menu.x-fixed-top {
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 98;
+  }
+  .x-sub-menu.x-active {
+    transform: scaleY(1) translateY(0);
+    border: 1px solid silver;
+    opacity: 1;
+    position: absolute !important;
+  }
+  .x-sub-menu>ul>li{
+    border:none;
+  }
+  .ujio img {
+    width: 35px;
+  }
+  .ujio {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    text-transform: capitalize;
+    color: #75726F;
+  }
+  .x-sub-menu h3 {
+    margin-bottom: 12px;
+    color: #222;
+    transition: 333ms;
+    padding-left: 44px;
+    font-weight: 700;
+    font-size: 19px;
+  }
+  .x-mega-menu>li.x-has-sub-menu a:after, .x-mega-menu>li.x-has-sub-menu span:after {
+    content: '⌄';
+    position: relative;
+    top: -3px;
+    display: none;
+  }
+  .x-mega-menu {
+    background: #eeeeee00;
+    display: grid;
+    grid-auto-columns: minmax(0,1fr);
+    grid-auto-flow: column;
+    list-style: none;
+    box-shadow: none!important; 
+    padding: 0;
+  }
+  .x-mega-menu>li a, .x-mega-menu>li span {
+    position: relative;
+    text-decoration: none;
+    color: #253d4e;
+    padding: 1em;
+    display: block;
+    line-height: 19px;
+    font-weight: 700;
+    font-size: 12px;
+  }
+  .x-sub-menu.x-active {
+    margin: 0 auto;
+    background-color:white;
+    border-radius:1px;
+  }
+  .x-has-sub-menu.x-active{
+    background-color:#fff0 !important;
+  } 
+  
+  .x-sub-menu li li {
+    border-bottom: rgb(34 34 34 / 0%) 1px solid!important;
+  }
+  .x-sub-menu h3 {
+    border-bottom: 1px solid #eee;
+    margin-bottom: 12px;
+    color: #222;
+    transition: 333ms;
+    padding-left: 44px;
+    font-weight: 700;
+    font-size: 19px;
+    padding-bottom: 10px;
+  }
+  .phone-number {
+    display:flex;
+    align-items:center;
+    gap:10px;
+  }
+  .phone-number span img{
+    vertical-align:middle;
+  }
+  .phone-number span.number-custom{
+    color:#fff;
+    font-size:14px;
+  }
+
+  /* Desktop Submenu Styles */
+  #mega-menu .submenu {
+    display: none;
+    position: absolute;
+    background: #fff;
+    left: 0;
+    padding: 20px;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+    z-index: 1000;
+  }
+  
+  #mega-menu .has-submenu:hover .submenu {
+    display: flex;
+  }
+  
+  #mega-menu .submenu > li {
+    flex: 1;
+    padding: 0 15px;
+  }
+  
+  #mega-menu .childmenu {
+    display: none;
+    position: absolute;
+    left: 100%;
+    top: 0;
+    background: #fff;
+    min-width: 200px;
+    padding: 10px;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+  }
+  
+  #mega-menu .has-childmenu:hover .childmenu {
+    display: block;
+  }
+  
+  #mega-menu .submenu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  #mega-menu .submenu li {
+    position: relative;
+  }
+  
+  #mega-menu .submenu li a {
+    padding: 8px 0;
+    display: block;
+    color: #333;
+  }
+  
+  #mega-menu .submenu li a:hover {
+    color: #000;
+    font-weight: bold;
+  }
+.x-sub-menu>ul {
+    display: grid;
+    grid-auto-columns: minmax(0,1fr);
+    grid-auto-flow: column;
+    padding: 0;
+    margin-bottom: 0!important;
+    background-color: #fff!important;
+    margin-top: 0;
+  box-shadow: 0 3px 7px #999;
+}
+  .x-sub-menu.x-active {
+    margin: 0 auto;
+    background-color: #ffffff00;
+    border-radius: 1px;
+    border: none;
+   box-shadow: none!important; 
+}
+  /* Mobile menu styles */
+  @media only screen and (max-width: 767px) {
+    .iuohg {
+      display: none;
+    }
+    .mobile-menu-drawer {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 80%;
+      height: 100%;
+      background-color: #fff;
+      transform: translateX(-100%);
+      transition: transform 0.3s ease-in-out;
+      z-index: 9999;
+      overflow-y: auto;
+    }
+    .mobile-menu-drawer.open {
+      transform: translateX(0);
+    }
+    .mobile-menu-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: #0003;
+      display: none;
+      z-index: 9998;
+    }
+    .mobile-menu-drawer nav ul {
+      padding-top: 60px;
+      list-style: none;
+      padding-left: 0;
+    }
+    .mobile-menu-drawer nav ul.mobile-main-menu > li {
+      border-bottom: 1px solid #eee;
+      position: relative;
+    }
+    .mobile-menu-item {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 15px 20px;
+    }
+    .mobile-menu-drawer nav ul.mobile-main-menu > li > .mobile-menu-item > a {
+      text-decoration: none;
+      color: #000;
+      text-transform: capitalize;
+      font-weight: 500;
+      flex: 1;
+    }
+    .mobile-menu-drawer .submenu,
+    .mobile-menu-drawer .childmenu {
+      display: none;
+      list-style: none;
+      padding-left: 20px;
+      background: #f9f9f9;
+    }
+    .mobile-menu-drawer .submenu li .mobile-menu-item > a,
+    .mobile-menu-drawer .childmenu li a {
+      display: block;
+      padding: 12px 0;
+      color: #555;
+      text-decoration: none;
+    }
+    .mobile-menu-drawer .submenu-toggle,
+    .mobile-menu-drawer .childmenu-toggle {
+      font-size: 20px;
+      cursor: pointer;
+      padding: 0 10px;
+    }
+    .mobile-menu-overlay.active {
+      display: block;
+    }
+    .menu-toggle {
+      position: absolute;
+      top: 2px;
+      left: 15px;
+      background: none;
+      border: none;
+      font-size: 24px;
+      cursor: pointer;
+      z-index: 99;
+      color:#fff;
+    }
+    .mobile-menu-custom{
+      display:block;
+    }
+    .mobile-menu-close {
+      background: none;
+      border: none;
+      font-size: 24px;
+      cursor: pointer;
+      position: absolute;
+      top: 15px;
+      right: 15px;
+      z-index: 10000;
+    }
+    .wrapper-megamenu{
+      padding-block:7px;
+    }
+    
+    /* Active state for mobile menu items */
+    .mobile-main-menu li.active > .mobile-menu-item > a {
+      color: #ffffff;
+      font-weight: bold;
+    }
+  }
+</style>
+
+<script>
+  xMegaMenu('#mega-menu', {
+    responseWidth: 1000,
+    isRtl: true,
+    mainTitle: '🖤 xStack menu 🖤',
+    disableLinks: true,
+    fixedTop: true,
+    onCloseSideMenu: function () {
+      console.log('closed');
+    },
+    onOpenSideMenu: function () {
+      console.log('opened');
+    }
+  });
+
+  function toggleMenu() {
+    document.querySelector('.mobile-menu-drawer').classList.toggle('open');
+    document.querySelector('.mobile-menu-overlay').classList.toggle('active');
+  }
+
+  // Mobile menu toggle functionality
+  document.addEventListener('DOMContentLoaded', function() {
+    // Handle submenu toggles
+    document.querySelectorAll('.submenu-toggle').forEach(toggle => {
+      toggle.addEventListener('click', function(e) {
+        e.preventDefault();
+        const parentLi = this.closest('li');
+        const submenu = parentLi.querySelector('.submenu');
+        
+        if (submenu.style.display === 'block') {
+          submenu.style.display = 'none';
+          this.textContent = '+';
+        } else {
+          submenu.style.display = 'block';
+          this.textContent = '-';
+        }
+      });
+    });
+    
+    // Handle childmenu toggles
+    document.querySelectorAll('.childmenu-toggle').forEach(toggle => {
+      toggle.addEventListener('click', function(e) {
+        e.preventDefault();
+        const parentLi = this.closest('li');
+        const childmenu = parentLi.querySelector('.childmenu');
+        
+        if (childmenu.style.display === 'block') {
+          childmenu.style.display = 'none';
+          this.textContent = '+';
+        } else {
+          childmenu.style.display = 'block';
+          this.textContent = '-';
+        }
+      });
+    });
+    
+    // Close all submenus when clicking a link (optional)
+    document.querySelectorAll('.mobile-menu-drawer a').forEach(link => {
+      link.addEventListener('click', function() {
+        if (!this.nextElementSibling) { // Only close if not clicking a toggle
+          document.querySelector('.mobile-menu-drawer').classList.remove('open');
+          document.querySelector('.mobile-menu-overlay').classList.remove('active');
+        }
+      });
+    });
+  });
+</script>
+
+
+
+
+</div>
