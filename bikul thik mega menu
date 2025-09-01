@@ -1,0 +1,170 @@
+put this "header.liquid" line no approx 180..
+ {%- liquid
+  if section.settings.menu != blank
+    if section.settings.menu_type_desktop == 'mymega'
+      render 'mega-menu-custom'
+    elsif section.settings.menu_type_desktop == 'dropdown'
+      render 'header-dropdown-menu'
+    elsif section.settings.menu_type_desktop != 'drawer'
+      render 'header-mega-menu'
+    endif
+  endif
+-%}
+put this "header.liquid" end..........................
+
+schema code " settings code"............
+{
+      "type": "select",
+      "id": "menu_type_desktop",
+      "options": [
+        {
+          "value": "dropdown",
+          "label": "t:sections.header.settings.menu_type_desktop.options__1.label"
+        },
+        {
+          "value": "mega",
+          "label": "t:sections.header.settings.menu_type_desktop.options__2.label"
+        },
+        {
+          "value": "drawer",
+          "label": "t:sections.header.settings.menu_type_desktop.options__3.label"
+        },
+        {
+          "value":"mymega",
+          "label":"Mega menu Custom" 
+        }
+      ],
+      "default": "dropdown",
+      "label": "t:sections.header.settings.menu_type_desktop.label"
+    },}
+schema code " settings code" end ....
+
+
+
+
+
+create snippet "mega-menu-custom"
+
+<nav class="nav-mega-menu">
+  <ul class="nav-main mr-singh">
+    {% for block in section.blocks %}
+      {% assign menu = linklists[block.settings.custom-mega] %}
+      {% if menu.links.size > 0 %}
+        {% for parent in menu.links %}
+          <li class="nav-item {% if parent.links.size > 0 %}has-mega{% endif %}">
+            <a href="{{ parent.url }}">{{ parent.title }}</a>
+            {% if parent.links.size > 0 %}
+              <div class="mega-menu">
+                <div class="page-width">
+                  <div class="mega-menu__grid">
+                    {% for child in parent.links limit:3 %}
+                      <div class="mega-menu__column">
+                        <h4><a href="{{ child.url }}">{{ child.title }}</a></h4>
+                        {% if child.links.size > 0 %}
+                          <ul>
+                            {% for grandchild in child.links %}
+                              <li>
+                                <a href="{{ grandchild.url }}">{{ grandchild.title }}</a>
+                              </li>
+                            {% endfor %}
+                          </ul>
+                        {% endif %}
+                      </div>
+                    {% endfor %}
+                    {% assign menu_product = section.settings.menu-product %}
+                    {% if menu_product %}
+                      <div class="mega-menu__column mega-menu__featured">
+                        <a href="{{ menu_product.url }}">
+                          <img src="{{ menu_product.featured_image | image_url: width: 400 }}"  alt="{{ menu_product.title | escape }}"/>
+                          <span class="featured-title">{{ menu_product.title }}</span>
+                        </a>
+                      </div>
+                    {% endif %}
+                  </div>
+                </div>
+              </div>
+            {% endif %}
+
+          </li>
+        {% endfor %}
+      {% endif %}
+    {% endfor %}
+  </ul>
+</nav>
+
+<style>
+/* --- main nav --- */
+.nav-main {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.nav-main > li {
+  padding: 1rem 1.5rem;
+}
+.nav-main > li > a {
+  color: #000;
+  text-decoration: none;
+  font-weight: 600;
+}
+/* --- mega menu --- */
+.mega-menu {
+  display: none;
+  position: absolute;
+  left: 0;
+  top: 76%;
+  width: 100%;
+  background: #fff;
+  padding: 2rem;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  z-index: 20;
+}
+.mega-menu__grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 3 columns for menu + 1 featured */
+  gap: 2rem;
+}
+.mega-menu__column h4 {
+  margin-bottom: .5rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.mega-menu__column ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.mega-menu__column li {
+  margin-bottom: .3rem;
+}
+.mega-menu__column a {
+  text-decoration: none;
+  color: #333;
+  font-size: 1.4rem;
+}
+.mega-menu__column a:hover {
+  color: #007acc;
+}
+
+/* --- featured product column --- */
+.mega-menu__featured {
+  text-align: center;
+}
+.mega-menu__featured img {
+  max-width: 100%;
+  border-radius: 6px;
+  margin-bottom: .5rem;
+}
+.mega-menu__featured .featured-title {
+  display: block;
+  font-weight: bold;
+  margin-top: .5rem;
+  color: #000;
+}
+.nav-main > li.has-mega:hover > .mega-menu,
+.nav-main > li.has-mega .mega-menu:hover {
+  display: block;
+}
+</style>
+
