@@ -39,6 +39,31 @@ schema code " settings code"............
     },
 schema code " settings code" end ....
 
+in last blocks line ......
+
+  "blocks": [
+    {
+      "type": "@app"
+    },
+    {
+     "type": "mega-menu",
+     "name":"custom-mega",
+     "settings":[
+       {
+      "type":"link_list",
+      "id":"custom-mega",
+      "label":"Custom mega menu"
+     },
+    {
+      "type":"product",
+      "id": "mega-product",
+      "label":"Product"
+    }
+     ]
+    }
+  ]
+}
+
 
 
 
