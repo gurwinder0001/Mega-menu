@@ -96,7 +96,7 @@ create snippet "mega-menu-custom"
                         {% endif %}
                       </div>
                     {% endfor %}
-                    {% assign menu_product = section.settings.menu-product %}
+                    {% assign menu_product = block.settings.mega-product %}
                     {% if menu_product %}
                       <div class="mega-menu__column mega-menu__featured">
                         <a href="{{ menu_product.url }}">
